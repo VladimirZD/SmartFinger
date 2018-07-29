@@ -1,0 +1,54 @@
+﻿2012-09-09 ----------------------------------------------------------------------------------------
+++++ 1. Na 3. nivou umjesto rotacije jedan broj se potpuno promijeni, a i dalje ne daje dobar rezultat. Pri tom se ponudjeno rjesenje ne osvjezava.
+++++ 2. 5. nivo: ponudjeno rjesenje nije dobro, u smislu da se nude brojevi koji uopce nisu u igri
+!!!! 3. Kad se nastavlja nivo 5 ili 6 nakon pauze samo je prvi komplet brojeva sa tog  nivoa, a ostali su sa 1. nivoa iako i dalje pise nivo 5, a nakon sto se rijesi ide na nivo 2 Ovo se dogadja samo kad je ukljucena opcija kreni od nekog nivoa koji nije 1. Ovo sada radi dobro, ali nisam siguran kako sam to riješio...
+++++ 4. learning mode: brojevi se mijenjaju. Nije uzrok learning mode, uvijek se mijenjaju.. ispravljeno
+
+
+2012-09-08 ------------------------------------------------------------------------------------------
+++++ 20.Greška:
+++++ a)Pokrenem igru
+++++ b)Pustim da prođe vrijeme do crvenog i kažem da ode na glavnu
+++++ c) resume game i pustim da ode do kraja
+++++ d) pojavi se poruka da je vrijeme isteklo
+++++ e) stisnem ok i igra ponovo krene ali vrijeme je već u crvenom!
+!!!! 21. Popup za unos imena: Poruke bi trebale biti malo udesno pomaknute da budu u ravnini po lijevom rubu s kućicom za unos
+++++ 22. Popup za unos imena: trebalo bi deselektirati ponuđeno ime jer se iznad pojavljuje neka ikona koja prekriva poruke pa se ne vidi što piše
+++++ 23. Uključeno je da pokazuje sumu. Ostvarim upad u Top10 i kraj rezultata mi nema zvjezdice da sam igrao s upaljenom sumom
+++++ 24. Treba promijeniti način prikazivanja sume (poslao sam ti kako)
+25. PRIJEDLOG: Dodati opciju "Pokaži rješenje" kad si u lerning modu. 
+++++ 26. Greška:
+++++  a) Pokrenem igru i ne ostvarim rezultat za Top10
+++++ b) Kaže da je vrijeme isteklo, kliknem ok
+++++  c) Krene nova igra bez pitanja i to tako da je Level 1, ali je prva zvijezdica siva, a druga s bijelim rubom, dalje opet siva. Treba resetirati brojač na nulu i treba pitati želite li novu igru kao poslije upisa u Top10
+++++ 27. Nakon što upiše prvih 10 višeu listu ne dodaje nove zapise odnosno bolje rezultate
+++++ 28. Da li produžiti vrijeme gdje se prikazuje logo EXA za sekundu-dvije? Stavio sam da čeka 3 sec
+29. Treba li nam stranica Credits? Bilo bi dobro makar da je neki mail ako nam se netko želi javiti ili je to ionako na AppStoru?
+
+
+2012-09-03
+
+++++ 1.  Na početnom ekranu kad je HR jezik Top lista treba pisati u 2 reda
+++++ 2. NIVO zamijeniti s RAZINA
+++++ 3. Čestitam, ušli ste među 10 najboljih. Unesite vaše i (nedostaje par slova odnosno nije vidljivo). Treba izbaciti bravo (ili čestitam). Ja bih radije ostavio čestitam.
+++++ 4. Kad upišeš sebe u Top10, igrica počne igrati dalje. To je neočekivano i trebalo bi me pitati želim li na početni ekran ili pokrenuti novu igru. 
+++++ 5. Bez obzira što nisam ništa riješio nudi mi da uđem u Top10. Mora biti bar jedna zadatak riješen.
+!!!! 6. 7. razina mi se čini lakšom od 6-te
+!!!! 7. Treba smanjiti broj sekundi koji se dobivaju za točne odgovore na manjim razinama, a povećati na većim razinama.Dodati to u definicju nivoa.
+!!!! 8. Na opcijama labela txtLanguage mora ići 2-3 mm desno
+++++ 9. Na 8. razini mi se srušila igra, čini mi se kad sam došao do kraja. (Prilog slika).
+++++ 10. Na uputama prikazuje HighScore, bolje stavi praznu stranicu i napiši na nju "upute"
+!!!! 11.  Na HighScore stranici, redne brojeve treba staviti udesno jedno 2-3 mm da bude u ravnini sa Hihg score natpisom iznad i smanjiti razmak između rednog broja i imena za duplo, povećati font.Font povećan.
+++++ 12.  Zamijeniti redoslijed u opcijama:
+	++++ a) Sound
+	++++ b) Vibrate
+	++++ c) Show sum
+	++++ d) Learning mode
+	++++ e) Language
+++++ 13.  HiScore - staviti Ad banner i na tu listu?
+++++ 14. Dodati opciju "Počni s levelom x" (ne možeš doći u Top10). 
+++++ 15. U Opcijama bi veličina fonta na labelama trebala biti iste veličine kao i u "padajućem izborniku" desno od Language gdje piše "System default"
+++++ 16. Zašto kad je u opcijama uključen Sound zasivljen je Vibrate? 
+++++ 17. U HighScoreu riješiš 3 zadatka, a on ti da iznos 4 (možda se zato i ruši kad riješiš sve)
+++++ 18. Kad igraš s uljučenim Show sum, ako uđeš u Top10 trebala bi biti zvjezdica uz iznos
+!!!! 19. Još neke poruke mi nisu ok (stilski), ali to ćemo zajedno.

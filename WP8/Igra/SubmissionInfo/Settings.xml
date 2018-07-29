@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>300x300.png</SmallAppTile>
+  <ScreenShots>WVGA_StartScreen.png;WVGA_Instructions.png;WVGA_Options.png;WVGA_HighScore.png;WVGA_Game.png;;;;</ScreenShots>
+  <ScreenShotsWXGA>WXGA_StartScreen.png;WXGA_Instructions.png;WXGA_Options.png;WXGA_HighScore.png;WXGA_Game.png;;;;</ScreenShotsWXGA>
+  <ScreenShots720P>720P_StartScreen.png;720P_Instructions.png;720P_Options.png;720P_HighScore.png;720P_Game.png;;;;</ScreenShots720P>
+</MarketplaceDetails>

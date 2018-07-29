@@ -1,0 +1,24 @@
+﻿<Application
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+	xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+	x:Class="Igra.App">
+
+	<!--Application Resources-->
+	<Application.Resources>
+        <local:LocalizedStrings xmlns:local="clr-namespace:Igra" x:Key="LocalizedStrings" />
+        <Color x:Key="Zelena">#FF6FB05E</Color>
+		<Color x:Key="TamnoPlava">#FF121F52</Color>
+		<Color x:Key="Crvena">#FF922A0C</Color>
+		<Color x:Key="Zuta">#FFC4CC39</Color>
+		<Color x:Key="SvjetloPlava">#FF277FA5</Color>
+	</Application.Resources>
+
+	<Application.ApplicationLifetimeObjects>
+		<!--Required object that handles lifetime events for the application-->
+		<shell:PhoneApplicationService 
+			Launching="Application_Launching" Closing="Application_Closing" 
+			Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+	</Application.ApplicationLifetimeObjects>
+</Application>

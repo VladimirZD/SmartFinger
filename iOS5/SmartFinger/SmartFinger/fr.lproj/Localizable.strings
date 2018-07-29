@@ -1,0 +1,27 @@
+"GAME_NEW_BTN" = "Nouvelle\n partie";
+"GAME_RESUME_BTN" = "Reprendre";
+"GAME_HISCORE_BTN" = "Meilleurs\nrésultats";
+"GAME_OPTIONS_BTN" = "Options";
+"GAME_INSTRUCTIONS_BTN" = "Instructions";
+"LEVEL_TEXT" = "NIVEAU";
+"SUM_TEXT" = "Somme:";
+"HIGH_SCORE_TITLE" = "Meilleurs résultats";
+"OPTIONS_TITLE" = "Options";
+"INSTRUCTIONS_TITLE" = "Instructions";
+"BACK_BTN" = "Arriére";
+"DONE_BTN" = "OK";
+"LEARNING_MODE_TEXT" = "Entraînez-vous";
+"SHOW_SUM_TEXT" = "Afficher la somme";
+"SOUND_TEXT" = "Son";
+"VIBRATE_TEXT" = "Vibration";
+"LANGUAGE_TEXT" = "Langue";
+"INSTRUCTIONS_BLUE_TEXT" = "8 niveaux.\nDix défis par niveau.\n30 secondes d'avance.\nPlein de combinaisons!";
+"INSTRUCTIONS_GREEN_TEXT" = "Choisissez les numéros afin d'obtenir la somme égale au numéro au milieu!\nTapez afin d'ajouter un numéro, tapez une seconde fois afin de l'annuler.\nChaque tâche accomplie vous donne extra temps, en fonction du niveau.\nAux niveaux difficiles (attendez-vous à une surprise) les numéros tournent et/ou disparaissent toutes les 5 secondes.\nFamiliarisez-vous avec le jeu et entraînez-vous sans limite de temps.";
+"CAPTION_ERROR" = "Erreur";
+"GRATSMSG" = "Félicitations!";
+"LEVEL_VALIDATION_ERROR" = "Niveau peut-être entre 1 et 8!";
+"NEWGAMEQUESTION" = "Voulez-vous jouer encore une partie?";
+"OPTIONSTARTLEVEL"= "Niveau de départ";
+"PLAYERNAMETITLE" = "Vous êtes parmi les 10 meilleurs joueurs. Entrez votre nom:";
+"TIMEUPMESSAGE" = "Limite de temps dépassée!";
+

@@ -1,2 +1,2 @@
 # SmartFinger
-Smartfinger game 
+Just trying to make game for Windows phone and iPhone... Fooling with Objective-C...
